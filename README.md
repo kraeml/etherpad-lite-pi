@@ -38,12 +38,6 @@ port=8080
 sudo git clone git://github.com/ether/etherpad-lite.git $target
 ```
 
-    Klone nach '/opt/etherpad-lite'...
-bjekte: 100% (29259/29259), 18.85 MiB | 1.77 MiB/s, Fertig.
-    Löse Unterschiede auf: 100% (20877/20877), Fertig.
-    Prüfe Konnektivität... Fertig.
-
-
 Vorlage kopieren und danach den Port anpassen.
 
 
